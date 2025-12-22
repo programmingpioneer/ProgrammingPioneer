@@ -32,7 +32,7 @@ I completed a focused C++ course to build a solid core foundation. **Click the t
 **C++ Programming Certificate (Excel Learners Academy & British Council)**
 > This certificate represents successful completion of a two-month intensive course covering variables, data types, loops, functions, and control structures.
 
-![C++ Programming Certificate](https://raw.githubusercontent.com/programmingpioneer/programmingpioneer/main/Cpp_Certificate.jpg)
+![C++ Programming Certificate](https://github.com/programmingpioneer/ProgrammingPioneer/blob/04801e02a95c62d9d2f549c2aba4936c2b9ef71e/Cpp_Certificate.jpg)
 </details>
 
 ### 💻 Self-Directed Skill Development
