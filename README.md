@@ -1,9 +1,11 @@
-# Hi there 👋, I’m Sufyan
+# Hi there 👋, I’m Sufyan Khan
 
 ## About Me
-I’m an aspiring Software Engineer passionate about building **real-world projects** with **C++, Python, and JavaScript**.  
-I enjoy **problem-solving, learning new technologies**, and turning ideas into working software.  
-Currently preparing for **CODE University 2026 intake** to take my coding journey to the next level. 🚀
+I am an FSc-level student with a strong interest in software development and programming. I have basic, hands-on exposure to **C++, Python, HTML, and CSS**, and I regularly use development tools such as **Git, GitHub, and Visual Studio Code** to manage and practice my work.
+
+I have completed a **C++ programming certificate**, which helped me build a clear understanding of core programming concepts including variables, data types, conditional statements, loops, and functions. To reinforce my learning, I practice by creating small projects that focus on logic building and problem-solving rather than complexity.
+
+Although I am at an early stage in my journey, I am consistent in my efforts and serious about improving my technical skills step by step. I value clarity, discipline, and continuous learning, and I aim to develop a strong foundation that will support more advanced studies in the future.
 
 ---
 
@@ -31,8 +33,12 @@ Check out some of my key projects:
 ---
 
 ## Motivation
-I aim to combine **coding skills with problem-solving** to develop real-world applications.  
-Focused on **practical learning, building projects**, and **preparing for international education**. 🌍💻
+My motivation to learn programming comes from a desire to understand how software works at a fundamental level. I believe that learning programming early helps develop logical thinking, patience, and structured problem-solving skills.
+
+Instead of rushing toward advanced topics, I focus on strengthening my basics and learning concepts properly. I regularly practice, review my mistakes, and try to improve my approach with each project. This steady and disciplined learning style keeps me motivated and helps me progress with confidence.
+
+My long-term goal is to grow into a capable and responsible software engineer by building strong fundamentals, practical skills, and a mindset of continuous improvement.
+
 
 ---
 
