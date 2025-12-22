@@ -67,9 +67,9 @@ Beyond formal training, I actively expand my skills through online platforms lik
 
 ---
 
-## 🌐 Founding & Managing a Tech Community
+# 🌐 Founding & Managing a Tech Community
 
-[![ProgrammingPioneer Community Logo](https://raw.githubusercontent.com/programmingpioneer/programmingpioneer/main/programmingpioneer-logo.png)](https://www.facebook.com/groups/YOUR_MAIN_GROUP_LINK)
+[![ProgrammingPioneer Community Logo](https://github.com/programmingpioneer/ProgrammingPioneer/blob/3f71f45b3de945eabec4c5e23d50ed809c129513/Programming_Pioneer_Logo.jpg)](https://www.facebook.com/share/17nFSLDB28/)
 *Founder & Admin - Click the logo to visit the main hub.*
 
 As the founder and administrator of **ProgrammingPioneer**, I built a multi-platform tech community from the ground up. I am responsible for strategy, creating content, moderating discussions, and fostering a collaborative learning environment. This experience has sharpened my skills in digital leadership, project management, and communication.
@@ -111,7 +111,6 @@ Feel free to reach out for collaboration, discussion about technology, or opport
 **Direct Contact:**
 - **📧 Email:** [7t7sufyan@gmail.com](mailto:7t7sufyan@gmail.com) *(Preferred)*
 - **📱 Mobile:** `+92 3295435817` *(Call/SMS/WhatsApp)*
-- **📞 Telephone:** `0932 310442`
 
 **Online Profiles & Work:**
 - **💻 GitHub Portfolio:** [github.com/programmingpioneer](https://github.com/programmingpioneer)
