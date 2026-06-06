@@ -1,7 +1,0 @@
-"""
-Requirements for Student Grade Manager
-Python 3.7+
-
-No external dependencies required.
-This project uses only Python standard library modules.
-"""
