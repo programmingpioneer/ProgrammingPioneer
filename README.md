@@ -42,11 +42,9 @@
 
 ---
 
-## 🔧 Toolkit & Learning Journey
-
 <!-- C++ Certificate -->
 <div style="background: #1e1e2f; border-radius: 16px; padding: 32px; margin: 50px 0; box-shadow: 0 4px 20px rgba(0,0,0,0.3); border: 1px solid rgba(255,255,255,0.05);">
-  <details open>
+  <details>
     <summary style="cursor: pointer; list-style: none; display: flex; align-items: center; gap: 15px; flex-wrap: wrap; margin-bottom: 24px;">
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
       <img src="https://img.shields.io/badge/Score-95%25-brightgreen?style=for-the-badge" alt="95% Score"/>
@@ -61,7 +59,6 @@
     </div>
   </details>
 </div>
-
 <!-- Self‑taught Skills -->
 <div style="background: #1e1e2f; border-radius: 16px; padding: 32px; margin: 50px 0; box-shadow: 0 4px 20px rgba(0,0,0,0.3); border: 1px solid rgba(255,255,255,0.05);">
   <details open>
