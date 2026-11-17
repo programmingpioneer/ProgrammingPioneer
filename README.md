@@ -1,83 +1,82 @@
+
+<!-- PROFILE HEADER -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Sufyan%20Khan&fontSize=45&fontAlignY=35&fontColor=ffffff&animation=fadeIn" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=155&section=header&text=Sufyan%20Khan&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=Learn%20%7C%20Build%20%7C%20Improve&descSize=16&descAlignY=65" alt="Sufyan Khan" />
+
+### University Student · Aspiring Software Engineer · Community Founder
+
+Passionate about programming, web development and building useful software.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://programmingpioneer.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sufyan-khans)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:7t7sufyan@gmail.com)
+
 </div>
 
-<h1 align="center">Sufyan Khan</h1>
-<h3 align="center">💻 Software Engineer • Full-Stack Developer • Community Founder</h3>
+---
+
+## 👋 About Me
+
+I'm **Sufyan Khan**, a university student from Pakistan exploring software engineering, full-stack development and database systems.
+
+I enjoy building practical applications, learning through real-world projects, and sharing knowledge as the founder of **ProgrammingPioneer**.
+
+> Learn with curiosity. Build with purpose. Improve with practice.
+
+## 🚀 Featured Projects
+
+| Project | Description & Technologies | Explore |
+| :--- | :--- | :--- |
+| **📚 DocoDive Library** | Digital learning library with PDF uploads, book discovery, reviews and community features.<br> `Python` `Flask` `TiDB` `R2` | [![Code](https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github)](https://github.com/programmingpioneer/DocoDive-Library) [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square)](https://docodive.programmingpioneer.com/) |
+| **🔍 Live API Inspector** | Real-time webhook and HTTP request inspection tool.<br> `TypeScript` `Socket.IO` | [![Code](https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github)](https://github.com/programmingpioneer/Live-API-Inspector) [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square)](https://live-api-inspector.programmingpioneer.com/) |
+| **📝 DevNotes** | Multi-user blogging and content management platform.<br> `Next.js` `TypeScript` `Prisma` | [![Code](https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github)](https://github.com/programmingpioneer/devnotes-blog) |
+| **⚡ Synapse Assessment Portal** | Interactive quiz engine with timers, voice features and analytics.<br> `JavaScript` `Web Speech API` `SVG` | [![Code](https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github)](https://github.com/programmingpioneer/synapse-assessment-portal) [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square)](https://quizengine.programmingpioneer.com/) |
+| **📋 Student Attendance Tracker** | Offline-first attendance system with QR codes and PDF reports.<br> `Go` `Gin` `SQLite` `Tailwind CSS` | [![Code](https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github)](https://github.com/programmingpioneer/attendance-tracker) |
+| **📊 Grade Management System** | Student grades, academic records and performance reports.<br> `Python` `Flask` `SQL` | [![Code](https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github)](https://github.com/programmingpioneer/Grade-Management-System) |
+| **🌐 Personal Portfolio** | Responsive website showcasing my projects and learning journey.<br> `HTML` `CSS` `JavaScript` | [![Code](https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github)](https://github.com/programmingpioneer/sufyan-portfolio) [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square)](https://programmingpioneer.com/) |
+
+<div align="center">
+
+[**Explore all repositories →**](https://github.com/programmingpioneer?tab=repositories)
+
+</div>
+
+## 🛠️ Technologies & Tools
+
+<sub>Technologies I have explored or used in my projects.</sub>
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| **Frontend** | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |
+| **Backend** | ![Flask](https://img.shields.io/badge/Flask-333333?style=flat-square&logo=flask&logoColor=white) ![Gin](https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=go&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-181717?style=flat-square&logo=socketdotio&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-2563EB?style=flat-square) |
+| **Database** | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![TiDB](https://img.shields.io/badge/TiDB-CC2927?style=flat-square) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) |
+| **Cloud & Tools** | ![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Brevo](https://img.shields.io/badge/Brevo-0B996E?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square) |
+
+## 🌍 ProgrammingPioneer
+
+A programming community I founded to help students learn, share resources, collaborate and build projects together.
+
+[![Facebook Group](https://img.shields.io/badge/Facebook_Group-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/share/g/1BzUwmbzJS/)
+[![Facebook Page](https://img.shields.io/badge/Facebook_Page-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/share/17spbELv5U/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/programmingpioneer)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/programmingpioneer)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp_Channel-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VavMiWXEwEjsYWhfoW1i)
+
+## 🎯 Current Focus
+
+`Backend Development` · `Database Design` · `Software Architecture` · `Secure Coding` · `Testing & Deployment`
 
 ---
 
-### 👋 Hello, I'm Sufyan!
+<div align="center">
 
-I'm a **Software Engineer** focused on building production-grade web applications and scalable backend systems. I specialize in **Go, SQLite, Python, and modern JavaScript**, with hands-on experience across the full stack — from database design and API architecture to responsive UI and deployment.
+**Always learning. Always building.**
 
-I founded **ProgrammingPioneer**, a tech community of 4,000+ students, helping aspiring developers learn through real-world projects and collaboration.
+[Website](https://programmingpioneer.com/) • [LinkedIn](https://linkedin.com/in/sufyan-khans) • [GitHub](https://github.com/programmingpioneer)
 
-> *"I believe in learning by shipping — every project solves a real problem."*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=65&section=footer" alt="Footer" />
 
----
-
-## 🛠️ Technical Skills
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-Framework-008ECF?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![TiDB](https://img.shields.io/badge/TiDB-Cloud-ff69b4?style=for-the-badge&logo=tidb&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📁 Featured Projects
-
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| **📋 Student Attendance Tracker** | Offline-first attendance management system with QR codes, PDF report cards, bulk attendance, and analytics dashboard. | Go, Gin, SQLite, Tailwind CSS | [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/programmingpioneer/attendance-tracker.git) |
-| **📊 Grade Management System** | A web tool that automates student performance tracking, grade calculation, and summary reports. | Python, Flask, HTML/CSS, SQL | [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/programmingpioneer/Grade-Management-System.git) |
-| **📚 DocoDive – Cloud Library** | A full-stack digital library where users upload, review, and discuss programming books. Includes verified accounts, leaderboard, and live chat. | Python, Flask, TiDB, R2, Brevo | [![Live](https://img.shields.io/badge/Live_Demo-View-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://docodive.programmingpioneer.com) |
-| **⚡ Synapse Assessment Portal** | A client-side quiz engine with countdown timer, voice read-aloud, and SVG analytics. Zero dependencies, vanilla JS. | JavaScript, Web Speech API, SVG | [![Live](https://img.shields.io/badge/Live_Demo-View-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://quizengine.programmingpioneer.com) |
-| **🌐 Personal Portfolio** | A fully responsive developer portfolio with dark/light theme, typing animation, and project showcase. | HTML5, CSS3, JavaScript | [![Live](https://img.shields.io/badge/Live_Demo-View-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://programmingpioneer.com) |
-
----
-
-## 🌟 Community Leadership
-
-I founded and manage **ProgrammingPioneer**, a multi-platform tech community that helps students learn programming through resources, discussions, and collaboration.  
-Our presence spans:
-
-[![Facebook Group](https://img.shields.io/badge/Group_2.7k-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/g/1BzUwmbzJS/)
-[![Facebook Page](https://img.shields.io/badge/Page_542-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/17spbELv5U/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/programmingpioneer)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/programmingpioneer)
-
----
-
-## 📈 Current Focus
-
-- 🧠 Deepening my knowledge of backend development with Go, Python & Flask
-- ☁️ Architecting cloud-native applications using TiDB, R2, and Brevo
-- 🤝 Contributing to open-source projects
-- 🏗️ Building scalable, real-world web apps from scratch
-
----
-
-## 📞 Let's Connect
-
-<p align="center">
-  <a href="mailto:7t7sufyan@gmail.com"><img src="https://img.shields.io/badge/Email-7t7sufyan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/sufyan-khans"><img src="https://img.shields.io/badge/LinkedIn-Sufyan%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/programmingpioneer"><img src="https://img.shields.io/badge/GitHub-programmingpioneer-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://programmingpioneer.com"><img src="https://img.shields.io/badge/Portfolio-programmingpioneer.com-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
+</div>
